@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_logout.py:16 Logout started

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:20 ************* test_invalid_admin_login_started *************
+[32mINFO    [0m root:test_login.py:31 Alert message validated successfully

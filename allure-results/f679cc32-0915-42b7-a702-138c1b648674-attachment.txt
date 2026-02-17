@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_mini_statement.py:15 Mini Statement Form started
+[32mINFO    [0m root:test_mini_statement.py:22 Mini Statement page verified

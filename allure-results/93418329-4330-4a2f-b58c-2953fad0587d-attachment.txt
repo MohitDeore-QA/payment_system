@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_login_ddt.py:21 *************test_valid_admin_login_data_driven*************

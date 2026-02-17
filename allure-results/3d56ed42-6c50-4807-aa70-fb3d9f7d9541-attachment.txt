@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_add_account.py:14 ************* Create New Account Test Started *************
+[32mINFO    [0m root:test_add_account.py:39 Account created successfully

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:10 ************* test_valid_admin_login_started *************
+[32mINFO    [0m root:test_login.py:16 Dashboard text matched successfully

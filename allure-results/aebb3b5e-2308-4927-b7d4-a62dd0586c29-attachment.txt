@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_customize_statement.py:15 ************* Customized Statement Form Test Started *************
+[32mINFO    [0m root:test_customize_statement.py:34 Statement generated successfully

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_new_cust_page.py:16 ************* Create New Customer Test Started *************
+[32mINFO    [0m root:test_new_cust_page.py:46 Customer created successfully

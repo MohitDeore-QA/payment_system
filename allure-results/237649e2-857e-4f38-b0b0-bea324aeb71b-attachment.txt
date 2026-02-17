@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_deposit_amount.py:13 Amount Deposit Form started
